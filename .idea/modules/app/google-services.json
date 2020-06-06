@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152503312176",
+    "firebase_url": "https://interntask-957ff.firebaseio.com",
+    "project_id": "interntask-957ff",
+    "storage_bucket": "interntask-957ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152503312176:android:3005eff80ca499fb7032f5",
+        "android_client_info": {
+          "package_name": "com.enjoy.interntask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152503312176-ecutllobaocoqlf3djsikseq2icp4qhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enjoy.interntask",
+            "certificate_hash": "502422938c82651462ebf7ca74ef97bb31e2ff1b"
+          }
+        },
+        {
+          "client_id": "152503312176-eii2qsf6hfnsididolg86repuaciqlp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4EVVCb80TiDoWpdRkRsVpGs2J7OviAZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152503312176-eii2qsf6hfnsididolg86repuaciqlp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
